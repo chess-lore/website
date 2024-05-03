@@ -54,3 +54,6 @@ footer {
   background-color: #000000 !important;
   color: #fff; /* White color for text (optional) */
 }
+#hero-lore {
+  margin-top: -700px; /* Adjust the value for desired upward movement */
+}
