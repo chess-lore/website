@@ -1,0 +1,25 @@
+{
+  "id": "Beginner/tactics-for-beginners",
+  "title": "Tactics for Beginners",
+  "description": "Welcome to the Tactics for Beginners section! Tactical skills are essential for success in chess, and mastering these fundamental tactics will greatly improve your game. Let's dive into some key tactical concepts that every beginner should know.",
+  "source": "@site/docs/Beginner/3-tactics-for-beginners.md",
+  "sourceDirName": "Beginner",
+  "slug": "/Beginner/tactics-for-beginners",
+  "permalink": "/docs/Beginner/tactics-for-beginners",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Beginner/3-tactics-for-beginners.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic Strategies",
+    "permalink": "/docs/Beginner/basic-stratagies"
+  },
+  "next": {
+    "title": "hi",
+    "permalink": "/docs/Intermediate/hi"
+  }
+}

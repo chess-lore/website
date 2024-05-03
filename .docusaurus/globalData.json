@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Beginner/introducton-to-chess",
+          "docs": [
+            {
+              "id": "Beginner/basic-stratagies",
+              "path": "/docs/Beginner/basic-stratagies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Beginner/getting-started",
+              "path": "/docs/Beginner/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Beginner/introducton-to-chess",
+              "path": "/docs/Beginner/introducton-to-chess",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Beginner/tactics-for-beginners",
+              "path": "/docs/Beginner/tactics-for-beginners",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intermediate/hi",
+              "path": "/docs/Intermediate/hi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/tutorial---basics",
+                "label": "Tutorial - Basics"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

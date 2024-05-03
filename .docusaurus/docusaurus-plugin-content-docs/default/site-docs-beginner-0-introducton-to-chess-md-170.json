@@ -1,0 +1,25 @@
+{
+  "id": "Beginner/introducton-to-chess",
+  "title": "Introduction to Chess",
+  "description": "Chess is a timeless board game that has captured the hearts and minds of people around the world for centuries. In this section, we'll explore the basics of chess, its rich history, and the numerous benefits it offers to players of all ages.",
+  "source": "@site/docs/Beginner/0-introducton-to-chess.md",
+  "sourceDirName": "Beginner",
+  "slug": "/Beginner/introducton-to-chess",
+  "permalink": "/docs/Beginner/introducton-to-chess",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Beginner/0-introducton-to-chess.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/Beginner/getting-started"
+  }
+}

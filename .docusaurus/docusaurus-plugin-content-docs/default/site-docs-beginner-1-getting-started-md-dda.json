@@ -1,0 +1,25 @@
+{
+  "id": "Beginner/getting-started",
+  "title": "Getting Started",
+  "description": "Welcome to the exciting world of chess! In this section, we'll cover everything you need to know to get started playing the game, from setting up the chessboard to understanding the basic rules.",
+  "source": "@site/docs/Beginner/1-getting-started.md",
+  "sourceDirName": "Beginner",
+  "slug": "/Beginner/getting-started",
+  "permalink": "/docs/Beginner/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Beginner/1-getting-started.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Chess",
+    "permalink": "/docs/Beginner/introducton-to-chess"
+  },
+  "next": {
+    "title": "Basic Strategies",
+    "permalink": "/docs/Beginner/basic-stratagies"
+  }
+}
