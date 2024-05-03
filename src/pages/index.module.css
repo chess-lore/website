@@ -1,0 +1,24 @@
+/* src/pages/index.module.css */
+
+.heroBanner {
+  
+  background-size: cover;
+  background-position: center;
+  padding: 6rem 0; /* Adjust padding as needed */
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  min-height: 100vh;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 3rem 0; /* Adjust padding for smaller screens */
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
