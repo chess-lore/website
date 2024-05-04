@@ -1,0 +1,24 @@
+{
+  "id": "Intermediate/hi",
+  "title": "hi",
+  "description": "",
+  "source": "@site/docs/Intermediate/hi.md",
+  "sourceDirName": "Intermediate",
+  "slug": "/Intermediate/hi",
+  "permalink": "/docs/Intermediate/hi",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chess-lore/docs/Intermediate/hi.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tactics for Beginners",
+    "permalink": "/docs/Beginner/tactics-for-beginners"
+  },
+  "next": {
+    "title": "Welcome to Chesslore!",
+    "permalink": "/docs/intro"
+  }
+}

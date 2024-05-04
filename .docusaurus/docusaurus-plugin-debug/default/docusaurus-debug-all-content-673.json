@@ -1,0 +1,255 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/chess-lore/docs",
+          "editUrlLocalized": "https://github.com/chess-lore/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/adi/website/sidebars.ts",
+          "contentPath": "/home/adi/website/docs",
+          "contentPathLocalized": "/home/adi/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "Beginner/basic-stratagies",
+              "title": "Basic Strategies",
+              "description": "Welcome to the Basic Strategies section! Understanding these fundamental concepts will lay a solid foundation for your journey to becoming a proficient chess player.",
+              "source": "@site/docs/Beginner/2-basic-stratagies.md",
+              "sourceDirName": "Beginner",
+              "slug": "/Beginner/basic-stratagies",
+              "permalink": "/docs/Beginner/basic-stratagies",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/chess-lore/docs/Beginner/2-basic-stratagies.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/Beginner/getting-started"
+              },
+              "next": {
+                "title": "Tactics for Beginners",
+                "permalink": "/docs/Beginner/tactics-for-beginners"
+              }
+            },
+            {
+              "id": "Beginner/getting-started",
+              "title": "Getting Started",
+              "description": "Welcome to the exciting world of chess! In this section, we'll cover everything you need to know to get started playing the game, from setting up the chessboard to understanding the basic rules.",
+              "source": "@site/docs/Beginner/1-getting-started.md",
+              "sourceDirName": "Beginner",
+              "slug": "/Beginner/getting-started",
+              "permalink": "/docs/Beginner/getting-started",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/chess-lore/docs/Beginner/1-getting-started.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction to Chess",
+                "permalink": "/docs/Beginner/introducton-to-chess"
+              },
+              "next": {
+                "title": "Basic Strategies",
+                "permalink": "/docs/Beginner/basic-stratagies"
+              }
+            },
+            {
+              "id": "Beginner/introducton-to-chess",
+              "title": "Introduction to Chess",
+              "description": "Chess is a timeless board game that has captured the hearts and minds of people around the world for centuries. In this section, we'll explore the basics of chess, its rich history, and the numerous benefits it offers to players of all ages.",
+              "source": "@site/docs/Beginner/0-introducton-to-chess.md",
+              "sourceDirName": "Beginner",
+              "slug": "/Beginner/introducton-to-chess",
+              "permalink": "/docs/Beginner/introducton-to-chess",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/chess-lore/docs/Beginner/0-introducton-to-chess.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Beginner",
+                "permalink": "/docs/category/beginner"
+              },
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/docs/Beginner/getting-started"
+              }
+            },
+            {
+              "id": "Beginner/tactics-for-beginners",
+              "title": "Tactics for Beginners",
+              "description": "Welcome to the Tactics for Beginners section! Tactical skills are essential for success in chess, and mastering these fundamental tactics will greatly improve your game. Let's dive into some key tactical concepts that every beginner should know.",
+              "source": "@site/docs/Beginner/3-tactics-for-beginners.md",
+              "sourceDirName": "Beginner",
+              "slug": "/Beginner/tactics-for-beginners",
+              "permalink": "/docs/Beginner/tactics-for-beginners",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/chess-lore/docs/Beginner/3-tactics-for-beginners.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Basic Strategies",
+                "permalink": "/docs/Beginner/basic-stratagies"
+              },
+              "next": {
+                "title": "hi",
+                "permalink": "/docs/Intermediate/hi"
+              }
+            },
+            {
+              "id": "Intermediate/hi",
+              "title": "hi",
+              "description": "",
+              "source": "@site/docs/Intermediate/hi.md",
+              "sourceDirName": "Intermediate",
+              "slug": "/Intermediate/hi",
+              "permalink": "/docs/Intermediate/hi",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/chess-lore/docs/Intermediate/hi.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tactics for Beginners",
+                "permalink": "/docs/Beginner/tactics-for-beginners"
+              },
+              "next": {
+                "title": "Welcome to Chesslore!",
+                "permalink": "/docs/intro"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Welcome to Chesslore!",
+              "description": "Welcome to Chesslore, your ultimate destination for all things related to the timeless game of chess. Whether you're a beginner looking to learn the basics or an experienced player seeking advanced strategies, you've come to the right place.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/chess-lore/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "hi",
+                "permalink": "/docs/Intermediate/hi"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Beginner",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Beginner/introducton-to-chess"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Beginner/getting-started"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Beginner/basic-stratagies"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Beginner/tactics-for-beginners"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Beginner friendly tutuorial for Chess",
+                  "slug": "/category/beginner",
+                  "permalink": "/docs/category/beginner"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Intermediate",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Intermediate/hi"
+                  }
+                ]
+              },
+              {
+                "type": "doc",
+                "id": "intro"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

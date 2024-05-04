@@ -1,0 +1,111 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "Beginner",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction to Chess",
+            "href": "/docs/Beginner/introducton-to-chess",
+            "docId": "Beginner/introducton-to-chess",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Getting Started",
+            "href": "/docs/Beginner/getting-started",
+            "docId": "Beginner/getting-started",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Basic Strategies",
+            "href": "/docs/Beginner/basic-stratagies",
+            "docId": "Beginner/basic-stratagies",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Tactics for Beginners",
+            "href": "/docs/Beginner/tactics-for-beginners",
+            "docId": "Beginner/tactics-for-beginners",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/beginner"
+      },
+      {
+        "type": "category",
+        "label": "Intermediate",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "hi",
+            "href": "/docs/Intermediate/hi",
+            "docId": "Intermediate/hi",
+            "unlisted": false
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Welcome to Chesslore!",
+        "href": "/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "Beginner/basic-stratagies": {
+      "id": "Beginner/basic-stratagies",
+      "title": "Basic Strategies",
+      "description": "Welcome to the Basic Strategies section! Understanding these fundamental concepts will lay a solid foundation for your journey to becoming a proficient chess player.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Beginner/getting-started": {
+      "id": "Beginner/getting-started",
+      "title": "Getting Started",
+      "description": "Welcome to the exciting world of chess! In this section, we'll cover everything you need to know to get started playing the game, from setting up the chessboard to understanding the basic rules.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Beginner/introducton-to-chess": {
+      "id": "Beginner/introducton-to-chess",
+      "title": "Introduction to Chess",
+      "description": "Chess is a timeless board game that has captured the hearts and minds of people around the world for centuries. In this section, we'll explore the basics of chess, its rich history, and the numerous benefits it offers to players of all ages.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Beginner/tactics-for-beginners": {
+      "id": "Beginner/tactics-for-beginners",
+      "title": "Tactics for Beginners",
+      "description": "Welcome to the Tactics for Beginners section! Tactical skills are essential for success in chess, and mastering these fundamental tactics will greatly improve your game. Let's dive into some key tactical concepts that every beginner should know.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Intermediate/hi": {
+      "id": "Intermediate/hi",
+      "title": "hi",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Welcome to Chesslore!",
+      "description": "Welcome to Chesslore, your ultimate destination for all things related to the timeless game of chess. Whether you're a beginner looking to learn the basics or an experienced player seeking advanced strategies, you've come to the right place.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

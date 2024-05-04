@@ -11,7 +11,7 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
 <header className={clsx('hero hero--primary', styles.heroBanner)} style={{backgroundImage: `url('/img/hero.jpeg')`}}>
-      <div className="container">
+      <div className="container" id="hero-lore">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>

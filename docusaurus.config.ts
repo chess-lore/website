@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'ChessLore',
+  tagline: 'A Place to Learn Chess with Comfort.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'CHESSLORE', // Usually your GitHub org/user name.
+  projectName: 'chess-lore', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -38,14 +38,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/chess-lore',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/chess-lore',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -56,11 +56,16 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'ChessLore',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Chess Lore Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -71,8 +76,10 @@ const config: Config = {
           label: 'Tutorial',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/contribute', label: 'Contribute', position: 'left'},
+        {to: '/about', label: 'About', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/',
           label: 'GitHub',
           position: 'right',
         },
@@ -91,23 +98,6 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
           title: 'More',
           items: [
             {
@@ -116,12 +106,12 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/chess-lore',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} ChessLore.`,
     },
     prism: {
       theme: prismThemes.github,
@@ -129,5 +119,6 @@ const config: Config = {
     },
   } satisfies Preset.ThemeConfig,
 };
+
 
 export default config;
