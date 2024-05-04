@@ -41,8 +41,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "id": "/category/beginner",
+              "path": "/docs/category/beginner",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -50,8 +50,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/category/tutorial---basics",
-                "label": "Tutorial - Basics"
+                "path": "/docs/category/beginner",
+                "label": "Beginner"
               }
             }
           }

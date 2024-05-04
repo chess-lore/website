@@ -11,8 +11,8 @@
           "className": "docs-version-current",
           "path": "/docs",
           "tagsPath": "/docs/tags",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
-          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "editUrl": "https://github.com/chess-lore/docs",
+          "editUrlLocalized": "https://github.com/chess-lore/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/home/adi/website/sidebars.ts",
@@ -29,7 +29,7 @@
               "permalink": "/docs/Beginner/basic-stratagies",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Beginner/2-basic-stratagies.md",
+              "editUrl": "https://github.com/chess-lore/docs/Beginner/2-basic-stratagies.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -54,7 +54,7 @@
               "permalink": "/docs/Beginner/getting-started",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Beginner/1-getting-started.md",
+              "editUrl": "https://github.com/chess-lore/docs/Beginner/1-getting-started.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -79,15 +79,15 @@
               "permalink": "/docs/Beginner/introducton-to-chess",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Beginner/0-introducton-to-chess.md",
+              "editUrl": "https://github.com/chess-lore/docs/Beginner/0-introducton-to-chess.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 0,
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "Beginner",
+                "permalink": "/docs/category/beginner"
               },
               "next": {
                 "title": "Getting Started",
@@ -104,7 +104,7 @@
               "permalink": "/docs/Beginner/tactics-for-beginners",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Beginner/3-tactics-for-beginners.md",
+              "editUrl": "https://github.com/chess-lore/docs/Beginner/3-tactics-for-beginners.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -129,7 +129,7 @@
               "permalink": "/docs/Intermediate/hi",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Intermediate/hi.md",
+              "editUrl": "https://github.com/chess-lore/docs/Intermediate/hi.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -153,7 +153,7 @@
               "permalink": "/docs/intro",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "editUrl": "https://github.com/chess-lore/docs/intro.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -169,7 +169,7 @@
             "tutorialSidebar": [
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "Beginner",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -193,8 +193,8 @@
                 "link": {
                   "type": "generated-index",
                   "description": "Beginner friendly tutuorial for Chess",
-                  "slug": "/category/tutorial---basics",
-                  "permalink": "/docs/category/tutorial---basics"
+                  "slug": "/category/beginner",
+                  "permalink": "/docs/category/beginner"
                 }
               },
               {

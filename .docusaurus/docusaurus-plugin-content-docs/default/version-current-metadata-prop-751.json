@@ -11,7 +11,7 @@
     "tutorialSidebar": [
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "Beginner",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -44,7 +44,7 @@
             "unlisted": false
           }
         ],
-        "href": "/docs/category/tutorial---basics"
+        "href": "/docs/category/beginner"
       },
       {
         "type": "category",

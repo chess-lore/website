@@ -10,7 +10,7 @@ export default {
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
   "organizationName": "CHESSLORE",
-  "projectName": "chess-repo",
+  "projectName": "chess-lore",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,11 +27,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/chess-lore"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/chess-lore"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -41,7 +41,7 @@ export default {
   ],
   "themeConfig": {
     "colorMode": {
-      "defaultMode": "light",
+      "defaultMode": "dark",
       "disableSwitch": true,
       "respectPrefersColorScheme": false
     },
@@ -65,6 +65,16 @@ export default {
           "position": "left"
         },
         {
+          "to": "/contribute",
+          "label": "Contribute",
+          "position": "left"
+        },
+        {
+          "to": "/about",
+          "label": "About",
+          "position": "left"
+        },
+        {
           "href": "https://github.com/",
           "label": "GitHub",
           "position": "right"
@@ -85,23 +95,6 @@ export default {
           ]
         },
         {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
           "title": "More",
           "items": [
             {
@@ -110,7 +103,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/chess-lore"
             }
           ]
         }

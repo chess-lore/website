@@ -8,15 +8,15 @@
   "permalink": "/docs/Beginner/introducton-to-chess",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Beginner/0-introducton-to-chess.md",
+  "editUrl": "https://github.com/chess-lore/docs/Beginner/0-introducton-to-chess.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 0,
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "title": "Beginner",
+    "permalink": "/docs/category/beginner"
   },
   "next": {
     "title": "Getting Started",

@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'cb7'),
+    component: ComponentCreator('/docs', '68f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'a46'),
+        component: ComponentCreator('/docs', '9c6'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e35'),
+            component: ComponentCreator('/docs', '0f4'),
             routes: [
               {
                 path: '/docs/Beginner/basic-stratagies',
@@ -79,8 +79,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
+                path: '/docs/category/beginner',
+                component: ComponentCreator('/docs/category/beginner', '186'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

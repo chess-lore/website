@@ -1,0 +1,12 @@
+{
+  "title": "Beginner",
+  "description": "Beginner friendly tutuorial for Chess",
+  "slug": "/category/beginner",
+  "permalink": "/docs/category/beginner",
+  "navigation": {
+    "next": {
+      "title": "Introduction to Chess",
+      "permalink": "/docs/Beginner/introducton-to-chess"
+    }
+  }
+}
