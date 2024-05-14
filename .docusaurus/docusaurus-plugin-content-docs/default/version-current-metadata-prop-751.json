@@ -54,12 +54,54 @@
         "items": [
           {
             "type": "link",
-            "label": "hi",
-            "href": "/docs/Intermediate/hi",
-            "docId": "Intermediate/hi",
+            "label": "Building-on-Basics",
+            "href": "/docs/Intermediate/Building-on-Basics",
+            "docId": "Intermediate/Building-on-Basics",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Advanced-Strategies",
+            "href": "/docs/Intermediate/Advanced-Strategies",
+            "docId": "Intermediate/Advanced-Strategies",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Tactical-Themes",
+            "href": "/docs/Intermediate/Tactical-Themes",
+            "docId": "Intermediate/Tactical-Themes",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Opening-Repertoire",
+            "href": "/docs/Intermediate/Opening-Repertoire",
+            "docId": "Intermediate/Opening-Repertoire",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Middle-Game-Mastery",
+            "href": "/docs/Intermediate/Middle-Game-Mastery",
+            "docId": "Intermediate/Middle-Game-Mastery",
             "unlisted": false
           }
         ]
+      },
+      {
+        "type": "link",
+        "label": "Chesslore",
+        "href": "/docs/chesslore",
+        "docId": "chesslore",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Contribute",
+        "href": "/docs/contribute",
+        "docId": "contribute",
+        "unlisted": false
       },
       {
         "type": "link",
@@ -95,9 +137,45 @@
       "description": "Welcome to the Tactics for Beginners section! Tactical skills are essential for success in chess, and mastering these fundamental tactics will greatly improve your game. Let's dive into some key tactical concepts that every beginner should know.",
       "sidebar": "tutorialSidebar"
     },
-    "Intermediate/hi": {
-      "id": "Intermediate/hi",
-      "title": "hi",
+    "chesslore": {
+      "id": "chesslore",
+      "title": "Chesslore - Learn Chess Like a Pro",
+      "description": "Welcome to Chesslore, a comprehensive open-source project designed to help you master the game of chess, from beginner to advanced levels. Whether you're a newcomer to the world of chess or an experienced player seeking to enhance your skills, Chesslore is your ultimate guide to becoming a formidable chess player.",
+      "sidebar": "tutorialSidebar"
+    },
+    "contribute": {
+      "id": "contribute",
+      "title": "Contribute",
+      "description": "Thank you for considering contributing to ChessLore! We welcome contributions from everyone, whether you're an experienced programmer or just getting started with open source.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Intermediate/Advanced-Strategies": {
+      "id": "Intermediate/Advanced-Strategies",
+      "title": "Advanced-Strategies",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Intermediate/Building-on-Basics": {
+      "id": "Intermediate/Building-on-Basics",
+      "title": "Building-on-Basics",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Intermediate/Middle-Game-Mastery": {
+      "id": "Intermediate/Middle-Game-Mastery",
+      "title": "Middle-Game-Mastery",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Intermediate/Opening-Repertoire": {
+      "id": "Intermediate/Opening-Repertoire",
+      "title": "Opening-Repertoire",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Intermediate/Tactical-Themes": {
+      "id": "Intermediate/Tactical-Themes",
+      "title": "Tactical-Themes",
       "description": "",
       "sidebar": "tutorialSidebar"
     },

@@ -8,13 +8,13 @@
   "permalink": "/docs/intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/chess-lore/docs/intro.md",
+  "editUrl": "https://github.com/chess-lore/website/tree/main/docs/intro.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "hi",
-    "permalink": "/docs/Intermediate/hi"
+    "title": "Contribute",
+    "permalink": "/docs/contribute"
   }
 }

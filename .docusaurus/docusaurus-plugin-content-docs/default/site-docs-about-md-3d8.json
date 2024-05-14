@@ -1,0 +1,29 @@
+{
+  "id": "chesslore",
+  "title": "Chesslore - Learn Chess Like a Pro",
+  "description": "Welcome to Chesslore, a comprehensive open-source project designed to help you master the game of chess, from beginner to advanced levels. Whether you're a newcomer to the world of chess or an experienced player seeking to enhance your skills, Chesslore is your ultimate guide to becoming a formidable chess player.",
+  "source": "@site/docs/about.md",
+  "sourceDirName": ".",
+  "slug": "/chesslore",
+  "permalink": "/docs/chesslore",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chess-lore/website/tree/main/docs/about.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chesslore",
+    "title": "Chesslore - Learn Chess Like a Pro",
+    "sidebar_label": "Chesslore",
+    "showInSidebar": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Middle-Game-Mastery",
+    "permalink": "/docs/Intermediate/Middle-Game-Mastery"
+  },
+  "next": {
+    "title": "Contribute",
+    "permalink": "/docs/contribute"
+  }
+}

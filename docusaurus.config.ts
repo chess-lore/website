@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://chesslore.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -38,14 +38,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/chess-lore',
+            'https://github.com/chess-lore/website/tree/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/chess-lore',
+            'https://github.com/chess-lore/website/tree/main',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -57,7 +57,7 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     colorMode: {
-      defaultMode: 'dark',
+      defaultMode: 'light',
       disableSwitch: true,
       respectPrefersColorScheme: false,
     },
@@ -73,13 +73,13 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Learn',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {to: '/contribute', label: 'Contribute', position: 'left'},
-        {to: '/about', label: 'About', position: 'left'},
+       
+        {to: '/docs/contribute', label: 'Contribute', position: 'left'},
+        {to: '/docs/chesslore', label: 'About', position: 'left'},
         {
-          href: 'https://github.com/',
+          href: 'https://github.com/chess-lore/website',
           label: 'GitHub',
           position: 'right',
         },
@@ -89,24 +89,28 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Links',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Learn',
               to: '/docs/intro',
             },
           ],
         },
+
         {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
               label: 'GitHub',
               href: 'https://github.com/chess-lore',
+            },
+            {
+              label: 'Contribution',
+              href: '/docs/contribute',
+            },            {
+              label: 'About',
+              href: '/docs/chesslore',
             },
           ],
         },

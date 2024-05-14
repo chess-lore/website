@@ -1,0 +1,25 @@
+{
+  "id": "Intermediate/Advanced-Strategies",
+  "title": "Advanced-Strategies",
+  "description": "",
+  "source": "@site/docs/Intermediate/1-Advanced-Strategies.md",
+  "sourceDirName": "Intermediate",
+  "slug": "/Intermediate/Advanced-Strategies",
+  "permalink": "/docs/Intermediate/Advanced-Strategies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Intermediate/1-Advanced-Strategies.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Building-on-Basics",
+    "permalink": "/docs/Intermediate/Building-on-Basics"
+  },
+  "next": {
+    "title": "Tactical-Themes",
+    "permalink": "/docs/Intermediate/Tactical-Themes"
+  }
+}

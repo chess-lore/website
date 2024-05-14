@@ -7,7 +7,7 @@ export default {
   "title": "ChessLore",
   "tagline": "A Place to Learn Chess with Comfort.",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://chesslore.com",
   "baseUrl": "/",
   "organizationName": "CHESSLORE",
   "projectName": "chess-lore",
@@ -27,11 +27,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/chess-lore"
+          "editUrl": "https://github.com/chess-lore/website/tree/main"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/chess-lore"
+          "editUrl": "https://github.com/chess-lore/website/tree/main"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -41,7 +41,7 @@ export default {
   ],
   "themeConfig": {
     "colorMode": {
-      "defaultMode": "dark",
+      "defaultMode": "light",
       "disableSwitch": true,
       "respectPrefersColorScheme": false
     },
@@ -57,25 +57,20 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Learn"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "to": "/contribute",
+          "to": "/docs/contribute",
           "label": "Contribute",
           "position": "left"
         },
         {
-          "to": "/about",
+          "to": "/docs/chesslore",
           "label": "About",
           "position": "left"
         },
         {
-          "href": "https://github.com/",
+          "href": "https://github.com/chess-lore/website",
           "label": "GitHub",
           "position": "right"
         }
@@ -86,10 +81,10 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Links",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Learn",
               "to": "/docs/intro"
             }
           ]
@@ -98,12 +93,16 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
               "label": "GitHub",
               "href": "https://github.com/chess-lore"
+            },
+            {
+              "label": "Contribution",
+              "href": "/docs/contribute"
+            },
+            {
+              "label": "About",
+              "href": "/docs/chesslore"
             }
           ]
         }

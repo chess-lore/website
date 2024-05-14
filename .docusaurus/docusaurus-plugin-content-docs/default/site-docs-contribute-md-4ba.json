@@ -1,0 +1,29 @@
+{
+  "id": "contribute",
+  "title": "Contribute",
+  "description": "Thank you for considering contributing to ChessLore! We welcome contributions from everyone, whether you're an experienced programmer or just getting started with open source.",
+  "source": "@site/docs/contribute.md",
+  "sourceDirName": ".",
+  "slug": "/contribute",
+  "permalink": "/docs/contribute",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chess-lore/website/tree/main/docs/contribute.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "contribute",
+    "title": "Contribute",
+    "sidebar_label": "Contribute",
+    "showInSidebar": false
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chesslore",
+    "permalink": "/docs/chesslore"
+  },
+  "next": {
+    "title": "Welcome to Chesslore!",
+    "permalink": "/docs/intro"
+  }
+}

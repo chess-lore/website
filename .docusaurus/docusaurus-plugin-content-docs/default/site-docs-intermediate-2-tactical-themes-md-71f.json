@@ -1,0 +1,25 @@
+{
+  "id": "Intermediate/Tactical-Themes",
+  "title": "Tactical-Themes",
+  "description": "",
+  "source": "@site/docs/Intermediate/2-Tactical-Themes.md",
+  "sourceDirName": "Intermediate",
+  "slug": "/Intermediate/Tactical-Themes",
+  "permalink": "/docs/Intermediate/Tactical-Themes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Intermediate/2-Tactical-Themes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced-Strategies",
+    "permalink": "/docs/Intermediate/Advanced-Strategies"
+  },
+  "next": {
+    "title": "Opening-Repertoire",
+    "permalink": "/docs/Intermediate/Opening-Repertoire"
+  }
+}

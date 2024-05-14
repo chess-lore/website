@@ -31,8 +31,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Intermediate/hi",
-              "path": "/docs/Intermediate/hi",
+              "id": "chesslore",
+              "path": "/docs/chesslore",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contribute",
+              "path": "/docs/contribute",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intermediate/Advanced-Strategies",
+              "path": "/docs/Intermediate/Advanced-Strategies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intermediate/Building-on-Basics",
+              "path": "/docs/Intermediate/Building-on-Basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intermediate/Middle-Game-Mastery",
+              "path": "/docs/Intermediate/Middle-Game-Mastery",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intermediate/Opening-Repertoire",
+              "path": "/docs/Intermediate/Opening-Repertoire",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Intermediate/Tactical-Themes",
+              "path": "/docs/Intermediate/Tactical-Themes",
               "sidebar": "tutorialSidebar"
             },
             {

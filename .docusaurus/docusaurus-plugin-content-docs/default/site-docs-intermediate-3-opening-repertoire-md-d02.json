@@ -1,0 +1,25 @@
+{
+  "id": "Intermediate/Opening-Repertoire",
+  "title": "Opening-Repertoire",
+  "description": "",
+  "source": "@site/docs/Intermediate/3-Opening-Repertoire.md",
+  "sourceDirName": "Intermediate",
+  "slug": "/Intermediate/Opening-Repertoire",
+  "permalink": "/docs/Intermediate/Opening-Repertoire",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Intermediate/3-Opening-Repertoire.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tactical-Themes",
+    "permalink": "/docs/Intermediate/Tactical-Themes"
+  },
+  "next": {
+    "title": "Middle-Game-Mastery",
+    "permalink": "/docs/Intermediate/Middle-Game-Mastery"
+  }
+}

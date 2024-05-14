@@ -2,6 +2,7 @@
 id: contribute
 title: Contribute
 sidebar_label: Contribute
+showInSidebar: false
 ---
 
 # Contribute to ChessLore

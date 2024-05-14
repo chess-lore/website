@@ -1,0 +1,25 @@
+{
+  "id": "Intermediate/Middle-Game-Mastery",
+  "title": "Middle-Game-Mastery",
+  "description": "",
+  "source": "@site/docs/Intermediate/4-Middle-Game-Mastery.md",
+  "sourceDirName": "Intermediate",
+  "slug": "/Intermediate/Middle-Game-Mastery",
+  "permalink": "/docs/Intermediate/Middle-Game-Mastery",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Intermediate/4-Middle-Game-Mastery.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Opening-Repertoire",
+    "permalink": "/docs/Intermediate/Opening-Repertoire"
+  },
+  "next": {
+    "title": "Chesslore",
+    "permalink": "/docs/chesslore"
+  }
+}
