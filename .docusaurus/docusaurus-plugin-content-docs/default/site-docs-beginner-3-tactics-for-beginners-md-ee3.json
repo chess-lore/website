@@ -8,7 +8,7 @@
   "permalink": "/docs/Beginner/tactics-for-beginners",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/chess-lore/docs/Beginner/3-tactics-for-beginners.md",
+  "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Beginner/3-tactics-for-beginners.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -19,7 +19,7 @@
     "permalink": "/docs/Beginner/basic-stratagies"
   },
   "next": {
-    "title": "hi",
-    "permalink": "/docs/Intermediate/hi"
+    "title": "Building-on-Basics",
+    "permalink": "/docs/Intermediate/Building-on-Basics"
   }
 }

@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-68f": {
+  "/docs-e8a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsa-5-f-908"
     }
   },
-  "/docs-9c6": {
+  "/docs-236": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-0f4": {
+  "/docs-a6d": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Beginner/basic-stratagies-5a5": {
@@ -82,9 +82,33 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-beginner-589-228"
   },
-  "/docs/Intermediate/hi-79d": {
+  "/docs/chesslore-12c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intermediate-hi-4-ae-18a"
+    "content": "content---docs-about-3-d-8-538"
+  },
+  "/docs/contribute-897": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contribute-4-ba-821"
+  },
+  "/docs/Intermediate/Advanced-Strategies-c0c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intermediate-advanced-strategiesc-84-918"
+  },
+  "/docs/Intermediate/Building-on-Basics-bbc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intermediate-building-on-basics-73-f-4e2"
+  },
+  "/docs/Intermediate/Middle-Game-Mastery-c0a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intermediate-middle-game-masterya-4-e-377"
+  },
+  "/docs/Intermediate/Opening-Repertoire-1f6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intermediate-opening-repertoired-02-bf0"
+  },
+  "/docs/Intermediate/Tactical-Themes-999": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intermediate-tactical-themes-71-f-80b"
   },
   "/docs/intro-61d": {
     "__comp": "__comp---theme-doc-item-178-a40",

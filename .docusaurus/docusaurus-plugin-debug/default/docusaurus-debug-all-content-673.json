@@ -11,8 +11,8 @@
           "className": "docs-version-current",
           "path": "/docs",
           "tagsPath": "/docs/tags",
-          "editUrl": "https://github.com/chess-lore/docs",
-          "editUrlLocalized": "https://github.com/chess-lore/i18n/en/docusaurus-plugin-content-docs/current",
+          "editUrl": "https://github.com/chess-lore/website/tree/main/docs",
+          "editUrlLocalized": "https://github.com/chess-lore/website/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/home/adi/website/sidebars.ts",
@@ -29,7 +29,7 @@
               "permalink": "/docs/Beginner/basic-stratagies",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/chess-lore/docs/Beginner/2-basic-stratagies.md",
+              "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Beginner/2-basic-stratagies.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -54,7 +54,7 @@
               "permalink": "/docs/Beginner/getting-started",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/chess-lore/docs/Beginner/1-getting-started.md",
+              "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Beginner/1-getting-started.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -79,7 +79,7 @@
               "permalink": "/docs/Beginner/introducton-to-chess",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/chess-lore/docs/Beginner/0-introducton-to-chess.md",
+              "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Beginner/0-introducton-to-chess.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 0,
@@ -104,7 +104,7 @@
               "permalink": "/docs/Beginner/tactics-for-beginners",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/chess-lore/docs/Beginner/3-tactics-for-beginners.md",
+              "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Beginner/3-tactics-for-beginners.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -115,23 +115,107 @@
                 "permalink": "/docs/Beginner/basic-stratagies"
               },
               "next": {
-                "title": "hi",
-                "permalink": "/docs/Intermediate/hi"
+                "title": "Building-on-Basics",
+                "permalink": "/docs/Intermediate/Building-on-Basics"
               }
             },
             {
-              "id": "Intermediate/hi",
-              "title": "hi",
-              "description": "",
-              "source": "@site/docs/Intermediate/hi.md",
-              "sourceDirName": "Intermediate",
-              "slug": "/Intermediate/hi",
-              "permalink": "/docs/Intermediate/hi",
+              "id": "chesslore",
+              "title": "Chesslore - Learn Chess Like a Pro",
+              "description": "Welcome to Chesslore, a comprehensive open-source project designed to help you master the game of chess, from beginner to advanced levels. Whether you're a newcomer to the world of chess or an experienced player seeking to enhance your skills, Chesslore is your ultimate guide to becoming a formidable chess player.",
+              "source": "@site/docs/about.md",
+              "sourceDirName": ".",
+              "slug": "/chesslore",
+              "permalink": "/docs/chesslore",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/chess-lore/docs/Intermediate/hi.md",
+              "editUrl": "https://github.com/chess-lore/website/tree/main/docs/about.md",
               "tags": [],
               "version": "current",
+              "frontMatter": {
+                "id": "chesslore",
+                "title": "Chesslore - Learn Chess Like a Pro",
+                "sidebar_label": "Chesslore",
+                "showInSidebar": false
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Middle-Game-Mastery",
+                "permalink": "/docs/Intermediate/Middle-Game-Mastery"
+              },
+              "next": {
+                "title": "Contribute",
+                "permalink": "/docs/contribute"
+              }
+            },
+            {
+              "id": "contribute",
+              "title": "Contribute",
+              "description": "Thank you for considering contributing to ChessLore! We welcome contributions from everyone, whether you're an experienced programmer or just getting started with open source.",
+              "source": "@site/docs/contribute.md",
+              "sourceDirName": ".",
+              "slug": "/contribute",
+              "permalink": "/docs/contribute",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/chess-lore/website/tree/main/docs/contribute.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "contribute",
+                "title": "Contribute",
+                "sidebar_label": "Contribute",
+                "showInSidebar": false
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chesslore",
+                "permalink": "/docs/chesslore"
+              },
+              "next": {
+                "title": "Welcome to Chesslore!",
+                "permalink": "/docs/intro"
+              }
+            },
+            {
+              "id": "Intermediate/Advanced-Strategies",
+              "title": "Advanced-Strategies",
+              "description": "",
+              "source": "@site/docs/Intermediate/1-Advanced-Strategies.md",
+              "sourceDirName": "Intermediate",
+              "slug": "/Intermediate/Advanced-Strategies",
+              "permalink": "/docs/Intermediate/Advanced-Strategies",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Intermediate/1-Advanced-Strategies.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Building-on-Basics",
+                "permalink": "/docs/Intermediate/Building-on-Basics"
+              },
+              "next": {
+                "title": "Tactical-Themes",
+                "permalink": "/docs/Intermediate/Tactical-Themes"
+              }
+            },
+            {
+              "id": "Intermediate/Building-on-Basics",
+              "title": "Building-on-Basics",
+              "description": "",
+              "source": "@site/docs/Intermediate/0-Building-on-Basics.md",
+              "sourceDirName": "Intermediate",
+              "slug": "/Intermediate/Building-on-Basics",
+              "permalink": "/docs/Intermediate/Building-on-Basics",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Intermediate/0-Building-on-Basics.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -139,8 +223,83 @@
                 "permalink": "/docs/Beginner/tactics-for-beginners"
               },
               "next": {
-                "title": "Welcome to Chesslore!",
-                "permalink": "/docs/intro"
+                "title": "Advanced-Strategies",
+                "permalink": "/docs/Intermediate/Advanced-Strategies"
+              }
+            },
+            {
+              "id": "Intermediate/Middle-Game-Mastery",
+              "title": "Middle-Game-Mastery",
+              "description": "",
+              "source": "@site/docs/Intermediate/4-Middle-Game-Mastery.md",
+              "sourceDirName": "Intermediate",
+              "slug": "/Intermediate/Middle-Game-Mastery",
+              "permalink": "/docs/Intermediate/Middle-Game-Mastery",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Intermediate/4-Middle-Game-Mastery.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Opening-Repertoire",
+                "permalink": "/docs/Intermediate/Opening-Repertoire"
+              },
+              "next": {
+                "title": "Chesslore",
+                "permalink": "/docs/chesslore"
+              }
+            },
+            {
+              "id": "Intermediate/Opening-Repertoire",
+              "title": "Opening-Repertoire",
+              "description": "",
+              "source": "@site/docs/Intermediate/3-Opening-Repertoire.md",
+              "sourceDirName": "Intermediate",
+              "slug": "/Intermediate/Opening-Repertoire",
+              "permalink": "/docs/Intermediate/Opening-Repertoire",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Intermediate/3-Opening-Repertoire.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tactical-Themes",
+                "permalink": "/docs/Intermediate/Tactical-Themes"
+              },
+              "next": {
+                "title": "Middle-Game-Mastery",
+                "permalink": "/docs/Intermediate/Middle-Game-Mastery"
+              }
+            },
+            {
+              "id": "Intermediate/Tactical-Themes",
+              "title": "Tactical-Themes",
+              "description": "",
+              "source": "@site/docs/Intermediate/2-Tactical-Themes.md",
+              "sourceDirName": "Intermediate",
+              "slug": "/Intermediate/Tactical-Themes",
+              "permalink": "/docs/Intermediate/Tactical-Themes",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Intermediate/2-Tactical-Themes.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced-Strategies",
+                "permalink": "/docs/Intermediate/Advanced-Strategies"
+              },
+              "next": {
+                "title": "Opening-Repertoire",
+                "permalink": "/docs/Intermediate/Opening-Repertoire"
               }
             },
             {
@@ -153,14 +312,14 @@
               "permalink": "/docs/intro",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/chess-lore/docs/intro.md",
+              "editUrl": "https://github.com/chess-lore/website/tree/main/docs/intro.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "hi",
-                "permalink": "/docs/Intermediate/hi"
+                "title": "Contribute",
+                "permalink": "/docs/contribute"
               }
             }
           ],
@@ -205,9 +364,35 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Intermediate/hi"
+                    "id": "Intermediate/Building-on-Basics"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Intermediate/Advanced-Strategies"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Intermediate/Tactical-Themes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Intermediate/Opening-Repertoire"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Intermediate/Middle-Game-Mastery"
                   }
                 ]
+              },
+              {
+                "type": "doc",
+                "id": "chesslore",
+                "label": "Chesslore"
+              },
+              {
+                "type": "doc",
+                "id": "contribute",
+                "label": "Contribute"
               },
               {
                 "type": "doc",

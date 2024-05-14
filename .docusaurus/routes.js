@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '68f'),
+    component: ComponentCreator('/docs', 'e8a'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '9c6'),
+        component: ComponentCreator('/docs', '236'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '0f4'),
+            component: ComponentCreator('/docs', 'a6d'),
             routes: [
               {
                 path: '/docs/Beginner/basic-stratagies',
@@ -85,8 +85,44 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Intermediate/hi',
-                component: ComponentCreator('/docs/Intermediate/hi', '79d'),
+                path: '/docs/chesslore',
+                component: ComponentCreator('/docs/chesslore', '12c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/contribute',
+                component: ComponentCreator('/docs/contribute', '897'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Intermediate/Advanced-Strategies',
+                component: ComponentCreator('/docs/Intermediate/Advanced-Strategies', 'c0c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Intermediate/Building-on-Basics',
+                component: ComponentCreator('/docs/Intermediate/Building-on-Basics', 'bbc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Intermediate/Middle-Game-Mastery',
+                component: ComponentCreator('/docs/Intermediate/Middle-Game-Mastery', 'c0a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Intermediate/Opening-Repertoire',
+                component: ComponentCreator('/docs/Intermediate/Opening-Repertoire', '1f6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Intermediate/Tactical-Themes',
+                component: ComponentCreator('/docs/Intermediate/Tactical-Themes', '999'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

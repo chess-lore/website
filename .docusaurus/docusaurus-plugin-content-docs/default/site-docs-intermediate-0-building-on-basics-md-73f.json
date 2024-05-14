@@ -1,0 +1,25 @@
+{
+  "id": "Intermediate/Building-on-Basics",
+  "title": "Building-on-Basics",
+  "description": "",
+  "source": "@site/docs/Intermediate/0-Building-on-Basics.md",
+  "sourceDirName": "Intermediate",
+  "slug": "/Intermediate/Building-on-Basics",
+  "permalink": "/docs/Intermediate/Building-on-Basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/chess-lore/website/tree/main/docs/Intermediate/0-Building-on-Basics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tactics for Beginners",
+    "permalink": "/docs/Beginner/tactics-for-beginners"
+  },
+  "next": {
+    "title": "Advanced-Strategies",
+    "permalink": "/docs/Intermediate/Advanced-Strategies"
+  }
+}
