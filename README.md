@@ -36,26 +36,6 @@ We welcome contributions from the community! Whether you're a chess expert, a de
 
 Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to contribute.
 
-## Community
-
-Join our vibrant community of chess lovers and engage with fellow enthusiasts, instructors, and developers:
-
-- **Forums**: Discuss chess strategies, ask questions, and share your insights on our [forums](https://forum.chesslore.org).
-- **Social Media**: Follow us on [Twitter](https://twitter.com/chesslore), [Facebook](https://www.facebook.com/chesslore), and [Instagram](https://www.instagram.com/chesslore/) for updates, news, and chess-related content.
-- **Discord**: Join our [Discord server](https://discord.gg/chesslore) to connect with the community in real-time.
-
 ## License
 
 The Chesslore website is open-source and released under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-We would like to express our gratitude to the following projects and resources that have been instrumental in the development of Chesslore:
-
-- [React](https://reactjs.org/)
-- [Docusaurus](https://docusaurus.io/)
-- [Chess.js](https://github.com/jhlywa/chess.js)
-- [Lichess](https://lichess.org/)
-- [Chess Programming Wiki](https://www.chessprogramming.org/)
-
-And a special thanks to all the contributors and community members who have made Chesslore a success!
