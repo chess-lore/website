@@ -64,3 +64,12 @@ footer {
 #Layer_1 {
   border-radius: 50%;
 }
+@media (max-width: 768px) {
+  .navbar-sidebar {
+      display: none;
+  }
+}
+@media (max-width: 768px) {
+.clean-btn{
+  display: none;
+}}
